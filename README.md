@@ -1,2 +1,3 @@
-# heroku-buildpack-wkhtmltopdf
-The official Heroku buildpack for wkhtmltopdf command line tools. https://wkhtmltopdf.org
+# Heroku Buildpack: Python
+
+This is the official [Heroku buildpack](https://devcenter.heroku.com/articles/buildpacks) for wkhtmltopdf command line tools.
